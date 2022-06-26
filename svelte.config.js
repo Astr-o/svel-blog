@@ -10,15 +10,13 @@ const config = {
 	preprocess: [
 		preprocess(),
 
-		// renders markdown as html 
+		// renders markdown as html
 		mdsvex({
 			extensions: ['.md']
 		})
 	],
 
-	extensions: [
-		'.svelte', '.md'
-	],
+	extensions: ['.svelte', '.md'],
 
 	kit: {
 		adapter: adapter()

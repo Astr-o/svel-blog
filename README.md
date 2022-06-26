@@ -1,6 +1,6 @@
 # Svel Blog
 
-The beginings of a blog using Markdown and svelte templates 
+The beginings of a blog using Markdown and svelte templates
 
 ## Developing
 

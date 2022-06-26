@@ -2,8 +2,14 @@
 	import Nav from '../lib/components/nav.svelte';
 </script>
 
+<main class="content">
+	<slot />
+</main>
+
+<footer class="footer"><Nav /></footer>
+
 <style global>
-	* { 
+	* {
 		margin: auto;
 	}
 
@@ -29,9 +35,3 @@
 		padding: 20px;
 	}
 </style>
-
-<main class = "content">
-	<slot />
-</main>
-
-<footer class = "footer"><Nav /></footer>
