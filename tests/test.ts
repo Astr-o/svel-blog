@@ -4,3 +4,8 @@ test('index page has expected h1', async ({ page }) => {
 	await page.goto('/');
 	expect(await page.textContent('h1')).toBe('Welcome to SvelteKit');
 });
+
+test('index page has home nav', async ({ page }) => {
+	await page.goto('/');
+	expect(await page.textContent('li a')).toBe('home');
+});
