@@ -9,5 +9,4 @@
 <footer class="footer"><Nav /></footer>
 
 <style global>
-
 </style>

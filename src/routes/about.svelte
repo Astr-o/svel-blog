@@ -9,17 +9,22 @@
 		<div class="nine columns main-col">
 			<h2>About Me</h2>
 
-            <p>
-                I am a Technical Lead, with over 4 years’ experience leading high-performance multifunctional teams and over 10 years’ experience in Software Engineering & Data Science.
-            </p>
+			<p>
+				I am a Technical Lead, with over 4 years’ experience leading high-performance
+				multifunctional teams and over 10 years’ experience in Software Engineering & Data Science.
+			</p>
 
-            <p>
-                I have broad technical skills in Cloud Architecture, Full-Stack Web Development, Data Science, Serverless Event-Driven Architectures, API led design, Statistics, Computer Science and experience with implementing solutions in Google and AWS Cloud.
-            </p>
+			<p>
+				I have broad technical skills in Cloud Architecture, Full-Stack Web Development, Data
+				Science, Serverless Event-Driven Architectures, API led design, Statistics, Computer Science
+				and experience with implementing solutions in Google and AWS Cloud.
+			</p>
 
-            <p>
-                I am a servant leader who is dedicated to ensuring my team is well supported, productive and working in a collaborative way. While maintaining our focus on technical and operational excellence.
-            </p>
+			<p>
+				I am a servant leader who is dedicated to ensuring my team is well supported, productive and
+				working in a collaborative way. While maintaining our focus on technical and operational
+				excellence.
+			</p>
 
 			<div class="row">
 				<div class="columns download">
