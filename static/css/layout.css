@@ -325,35 +325,40 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.skill-25 {
+   width: 25%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.skill-50 {
+   width: 50%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.skill-70 {
+   width: 70%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.skill-80 {
+   width: 80%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.skill-90 {
+   width: 90%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.skill-95 {
+   width: 95%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.skill-99 {
+   width: 99%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
 }
 
 @-moz-keyframes photoshop {
