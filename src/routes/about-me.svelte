@@ -29,7 +29,7 @@
 			<div class="row">
 				<div class="columns download">
 					<p>
-						<a href="#" class="button"><i class="fa fa-download" />Download Resume</a>
+						<a href="/files/cv.docx" class="button"><i class="fa fa-download" />Download Resume</a>
 					</p>
 				</div>
 			</div>
