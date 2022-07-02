@@ -30,3 +30,8 @@ You can preview the production build with `npm run preview`.
 - mdsvex - https://mdsvex.pngwn.io/ - allows svelte in markdown
 - svelteKit - https://kit.svelte.dev/ - Svelte Server-side and static rendering
 - svelte - https://svelte.dev/ - OG Svelte
+
+## Gotchas 
+
+- mdsvex
+    - Doesn't support typescript in a svelte script tags 
