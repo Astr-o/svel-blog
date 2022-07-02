@@ -23,8 +23,4 @@
 			</ul>
 		</div>
 	</div>
-
-	<!-- <p class="scrolldown">
-        <a class="smoothscroll" href="#about"><i class="icon-down-circle" /></a>
-    </p> -->
 </header>
