@@ -1,5 +1,5 @@
 import adapter from '@sveltejs/adapter-static';
-
+import css from 'rollup-plugin-css-only';
 import { mdsvex } from 'mdsvex';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -20,7 +20,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		prerender: { enabled: true }
+		prerender: { enabled: true, default: true }
 	}
 };
 

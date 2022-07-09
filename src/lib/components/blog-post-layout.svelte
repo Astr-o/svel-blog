@@ -16,6 +16,3 @@
 	</slot>
 	<a href="/blog">back</a>
 </section>
-
-<style>
-</style>

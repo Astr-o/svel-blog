@@ -5,7 +5,7 @@
 			<h3>
 				I'm a Sydney Based <span>Technology Consultant</span>, <span>Principal Engineer</span> and
 				<span>Science Nerd</span>. Enabling teams to deliver holistic and engaging digital
-				experiences at scale in the cloud! 🚀☁
+				experiences at scale! 🚀☁
 			</h3>
 			<hr />
 			<ul class="social">
@@ -24,3 +24,9 @@
 		</div>
 	</div>
 </header>
+
+<style global>
+	@import '../css/default.css';
+	@import '../css/fonts.css';
+	@import '../css/media-queries.css';
+</style>
