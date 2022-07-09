@@ -31,6 +31,16 @@ You can preview the production build with `npm run preview`.
 - svelteKit - https://kit.svelte.dev/ - Svelte Server-side and static rendering
 - svelte - https://svelte.dev/ - OG Svelte
 
+## Testing
+
+- playwright - https://playwright.dev/
+
+Playwright tests can be run using the command below
+
+```sh
+npm run test
+```
+
 ## Gotchas 
 
 - mdsvex

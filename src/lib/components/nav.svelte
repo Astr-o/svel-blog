@@ -1,5 +1,6 @@
 <nav id="nav-wrap">
 	<a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	<!-- svelte-ignore a11y-invalid-attribute -->
 	<a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
 	<ul id="nav" class="nav">
