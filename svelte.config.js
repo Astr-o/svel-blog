@@ -13,13 +13,14 @@ const config = {
 
 			// this is not compatiable with TS
 			layout: './src/lib/components/blog-post-layout.svelte'
-		}),
+		})
 	],
 
 	extensions: ['.svelte', '.md'],
 
 	kit: {
-		adapter: adapter()
+		adapter: adapter(),
+		prerender: true
 	}
 };
 

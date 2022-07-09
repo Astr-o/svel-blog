@@ -17,7 +17,7 @@ test('end-2-end user flow', async ({ page }) => {
 		page.locator('text=Download Resume').click()
 	]);
 
-	expect(download.url()).toContain('cv')
+	expect(download.url()).toContain('cv');
 
 	// Click text=Blog
 	await Promise.all([

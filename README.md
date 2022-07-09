@@ -41,7 +41,7 @@ Playwright tests can be run using the command below
 npm run test
 ```
 
-## Gotchas 
+## Gotchas
 
 - mdsvex
-    - Doesn't support typescript in a svelte script tags 
+  - Doesn't support typescript in a svelte script tags
