@@ -24,9 +24,3 @@
 		</div>
 	</div>
 </header>
-
-<style global>
-	@import '../css/default.css';
-	@import '../css/fonts.css';
-	@import '../css/media-queries.css';
-</style>

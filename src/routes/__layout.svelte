@@ -9,4 +9,9 @@
 <footer class="footer"><Nav /></footer>
 
 <style global>
+	@import '../css/layout.css';
+	@import '../css/default.css';
+	@import '../css/fonts.css';
+	@import '../css/media-queries.css';
+	@import '../css/magnific-popup.css';
 </style>
