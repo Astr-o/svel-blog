@@ -76,13 +76,7 @@
 						<em class="date">March 2021 - February 2022</em>
 					</p>
 
-					<p>
-						This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-						Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-						sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi
-						accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non
-						mauris vitae erat
-					</p>
+					<p>test</p>
 				</div>
 
 				<div class="twelve columns">
